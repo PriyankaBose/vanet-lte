@@ -1,0 +1,1 @@
+Study of opportunities and challenges in a VANET scenario  supported by LTE base stations.
